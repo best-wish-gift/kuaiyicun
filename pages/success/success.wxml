@@ -1,0 +1,3 @@
+<!--pages/num/num.wxml-->
+<view class='wenzi'></view>
+<button class='btn1' >开锁成功！</button>

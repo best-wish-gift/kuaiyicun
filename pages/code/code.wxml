@@ -1,0 +1,5 @@
+<!--pages/code/code.wxml-->
+<view>
+<text class="success">扫码成功！</text>
+<button class="tonumber" bindtap="OneNet_Post">确认借锁</button>
+</view>

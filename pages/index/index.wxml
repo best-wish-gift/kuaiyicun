@@ -1,0 +1,11 @@
+<view class='view'>
+  <map longitude="{{longitude}}" latitude="{{latitude}}" markers="{{markers}}" covers="{{covers}}" show-location>
+    <cover-view>
+    <button id="tapto"  bindtap='toUsing'>点 击 借 / 还 锁</button>
+    </cover-view>
+     <cover-view class='cover-smaller'>
+       <button id="order" form-type='submit' plain='true' bindtap="toOrder"><image src='/images/order.png' mode='widthFix'></image></button>
+    </cover-view>
+  </map>
+  
+</view>

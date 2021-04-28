@@ -1,0 +1,4 @@
+<!--pages/num/num.wxml-->
+<view class='wenzi'>您的密码为:</view>
+<button class='btn1' bindtap="OneNet_Get">{{code}}</button>
+
